@@ -1,0 +1,38 @@
+################################# Skill ##################################
+skill:
+  enable : true
+  title : Logiciels
+  # subtitle : We’ve skilled in wide range of web and Other digital market tools.
+  # content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
+  image : images/about/about.png
+  skill_item :
+    # skill item loop
+    - name :  Pack Office(Excel, Word, PowerPoint)
+      percent : 90%
+
+  # skill item loop
+    - name :   Power Apps
+      percent : 80%
+      
+    # skill item loop
+    - name :   Power Bi
+      percent : 80%
+
+    # skill item loop
+    - name :   Talend
+      percent : 80%
+
+    # skill item loop
+    - name :   Tableau publique
+      percent : 80%
+      
+    # skill item loop
+    - name :  XLSTAT
+      percent : 80%
+      
+    - name :   ARGIS/QGIS
+      percent : 75%
+      
+    # skill item loop
+    - name :  Envi
+      percent : 75%

@@ -1,0 +1,17 @@
+############################# About ###################################
+about:
+  enable : true
+  title : Atouts
+  about_item :
+  - icon : ti-info # themify icon pack : https://themify.me/themify-icons
+    title : Esprit critique
+    content : Cette caractéristique me permet d’analyser différentes questions, d’emmettre des hypothèses et de trouver des resultats de manière objective, aborder une problématique sous tous les angles, à prendre la source de données en considération et à faire preuve de curiosité en permanence.
+
+
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    title : Curiosité intellectuelle
+    content : J'oriente mes recherches en vue de trouver des réponses aux problématiques posées par les données, d’aller au délàs des resultats superficiels, de faire preuve de créativité en cherchant à savoir davantage. Une soif d'acquérir des connaissances qui poussent à mieux comprendre mon univers.
+
+  - icon : ti-medall # themify icon pack : https://themify.me/themify-icons
+    title : Communication efficace
+    content : Expliquer le sens des informations exploitables, Communiquer les informations en soulignant la valeur des actions, Transmettre le processus de recherche et les suppositions qui ont mené à la conclusion.

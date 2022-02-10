@@ -1,0 +1,52 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Mes Compétences
+  service_item :
+    # service item loop
+    - name : Gestion de Projet
+      icon : ti-layers-alt # themify icon pack : https://themify.me/themify-icons
+      content : Définition et structuration du projet, du programme ou du portefeuille; Exigences et objectifs; Périmètre, contenu et livrables; Phases et planning; Organisation, mode de fonctionnement et gestion de l’information; Démarche qualité; Cout et gestion financière; Ressources en fonction de l’objectif; Pilotage et contrôle.
+      
+    # service item loop
+    - name : Gestion de Base de données
+      icon : ti-server # themify icon pack : https://themify.me/themify-icons
+      content : Langage informatique SQL, NOSQL; Connaissances en systèmes d’information;Modelisation base de données UML; Connaissance des logiciels de bases de données (MySQL, PostgreSQL, Microsoft SQL Server, Oracle, Mongo DB).
+
+    # service item loop
+    - name : Statistiques descriptives
+      icon : ti-bar-chart-alt # themify icon pack : https://themify.me/themify-icons
+      content : Notion sur la Population, individu, variables, effectif, frequence, mode, moyenne, dispersion, etendue, intervalle interquartile, variance, ecart-type, mediane, moment centré, coefficient d’applatissement, coefficient d’asymetrie, representation graphique, boite de distribution…
+      
+
+    # service item loop
+    - name : Business intelligence & Data Visualization
+      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      content : Visualisation des données et analyse avec Microsoft Power BI , Tableau publique, Excel.
+      
+    # service item loop
+    - name : Entrepôt de Données
+      icon : ti-cloud # themify icon pack : https://themify.me/themify-icons
+      content : Construction d'Entrepôt de Données( Data Warehouse) avec le logiciel Talend pour stocker et gérer les Big Data.
+
+     # service item loop
+    - name : Modelisation statistique
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : Modelisation statistique avec XLSTAT . Méthode Analyse multivariée(data mining ; ACP, AFC )
+      # https://help.xlstat.com/s/article/quelle-methode-danalyse-statistique-choisir-et-autres-elements-dapprentissage?language=fr
+
+    # service item loop
+    - name : Machine learning, Deep Learning
+      icon : ti-layout-grid2-thumb # themify icon pack : https://themify.me/themify-icons
+      content : language de programmation Python, R ; libraires:Sickit-learn, Numpy, Pandas, Matplotlib, Seaborn, Tensorflow, Keras, PyTorch, Theano; algorithmes de machine learning comme la régression linéaire, régression logistique, arbre de décision, forêt aléatoire, support vecteur machine, K-means, reseaux de neuronnes convolutifs et récurrents; Web scrapping à l’aide de sélénium, beautiful soup.
+           
+    # service item loop
+    - name : Développement web et mobile (full stack backend et front end)
+      icon : ti-layout-media-center-alt # themify icon pack : https://themify.me/themify-icons
+      content : FRONT END ( HTML et CSS, Boostrap, Javascript; Maquettage avec Adobe XD, Figma, Photoshop, Axure; CMS avec Wordpress), BACK-END( Intélligence artificielle python, R, php, Dart, sql, programmation orientée objet); Frameworks avec React JS, Django, Flask, Laravel, Flutter, Streamlit, Hugo; API avec Fast Api.
+      
+    
+    # service item loop
+    - name : Hydrogéochimie, qualité des eaux et environnement
+      icon : ti-more # themify icon pack : https://themify.me/themify-icons
+      content : Prospection, Evaluation , exploitation et gestion des ressources en eau, étude de projet d’aménagement(impact environnemental), évaluation des risques de pollution, modélisation hydrogéologique (écoulement et transport) sous MODFLOW, Réalisation et interprétation d’essais de pompage.

@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/hero-area.jpg"
+  bg_image : "images/backgrounds/hero-area.jpg"
+  #icon : "ti-hand-open" # themify icon pack : https://themify.me/themify-icons
+  title : "Annick Kadiané"
+  content : "Hello, je suis Mallah Annick Ghislaine Kadiané Developpeuse en Intelligence Artificielle | Data Scientist | Data Analyst | hydrogéologue!"
+  button:
+    enable : true
+    label : "A propos de moi"
+    link : "#testimonial"

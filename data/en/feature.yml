@@ -1,0 +1,32 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/about-business-man.jpg
+  image_webp : images/about/about-business-man.jpg
+  title : Formations
+  content : "Je conçois des modèles statistiques et je developpe le backend et le front end des applications intélligentes pour trouver des solutions aux problèmes quotidiens ."
+  feature_item : 
+      # feature item loop
+    - title : 2021-2022 MTN Academy by Simplon
+      icon : ti-notepad # themify icon pack : https://themify.me/themify-icons
+      content : FORMATION certifiante en Sciences de Données, Développeuse Data en Intelligence Artificielle
+      
+      # feature item loop
+    - title : 2018-2019 Université Félix Houphouët Boigny
+      icon : ti-notepad # themify icon pack : https://themify.me/themify-icons
+      content : MASTER II Sciences et Techniques de l’Eau et de l’Environnement
+
+      # feature item loop
+    - title : 2016-2017 Université Félix Houphouët Boigny
+      icon : ti-notepad # themify icon pack : https://themify.me/themify-icons
+      content : MAITRISE des Sciences de la Terre et des Ressources Minières
+      
+      # feature item loop
+    - title : 2015-2016 Université Félix Houphouët Boigny
+      icon : ti-notepad # themify icon pack : https://themify.me/themify-icons
+      content : LICENCE des Sciences de la Terre et des Ressources Minières
+
+       # feature item loop
+    - title : 2011-2012 Collège Saint Exupéry de Port-Bouet
+      icon : ti-notepad # themify icon pack : https://themify.me/themify-icons
+      content : BACCALAUREAT Série D

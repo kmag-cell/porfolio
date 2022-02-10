@@ -1,0 +1,84 @@
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  title : Mes Projets
+  portfolio_item :
+    # portfolio item loop
+    - name : Analyse de données Sites Radio electriques de la Côte d'Ivoire
+      image : images/portfolio/import.png
+      image_webp : images/portfolio/import.png
+      categories : ["Analyse de données"]
+      content : Analyse de données avec power bi
+      link : "https://app.powerbi.com/reportEmbed?reportId=99aceb4a-79d4-47b6-9deb-f200449ce3af&autoAuth=true&ctid=616348b4-cd06-4b49-a555-830c51c201e0&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWFmcmljYS1ub3J0aC1hLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D"
+      
+
+    - name : Analyse de données importation en Côte d'Ivoire
+      image : images/portfolio/site.png
+      image_webp : images/portfolio/site.png
+      categories : ["Analyse de données"]
+      content : Analyse de données avec power bi
+      link : "https://app.powerbi.com/reportEmbed?reportId=13f8faee-506c-4edd-97b4-b75bcb1cfa29&autoAuth=true&ctid=616348b4-cd06-4b49-a555-830c51c201e0&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWFmcmljYS1ub3J0aC1hLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D"
+       
+    # portfolio item loop
+    - name : Modèle statistique de segmentation
+      image : images/portfolio/segment.png
+      image_webp : images/portfolio/segment.png
+      categories : ["Modèle statistique"]
+      content : modèle de segmentation de clients.
+      link : "https://github.com/kmag-cell/segmentation/blob/main/segmentation.ipynb"
+      
+    # portfolio item loop
+    - name : Tensorflow
+      image : images/portfolio/classe.jpeg
+      image_webp : images/portfolio/classe.jpeg
+      categories : ["Modèle statistique"]
+      content : modèle de classification d’image réalisé avec tensorflow et keras
+      link : "https://github.com/kmag-cell/Classification_image/blob/main/classification_image.ipynb"
+      
+    # portfolio item loop
+    - name : Gestion de presence
+      image : images/portfolio/gestion.jpg
+      image_webp : images/portfolio/gestion.jpg
+      categories : ["Application web"]
+      content : Application pour la gestion de presence des apprenants de la MTN ACADEMY par reconnaissance faciale.
+      link : "https://github.com/kmag-cell/gestion_presence1"
+      
+    # portfolio item loop
+    - name : Streamlit Bank
+      image : images/portfolio/bank.png
+      image_webp : images/portfolio/bank.png
+      categories : ["Application web"]
+      content : Application pour la prediction du depart d'un client en bank
+      link : "https://share.streamlit.io/kmag-cell/kmag_bank/main/app.py"
+      
+    # portfolio item loop
+    - name : App Accident
+      image : images/portfolio/accident.jpg
+      image_webp : images/portfolio/accident.jpg
+      categories : ["Application web"]
+      content : Projet réalisé dans le but de faire la statistique des accidents en Cote d’Ivoire.
+      link : "https://github.com/kmag-cell/recent_accident"
+      
+    # portfolio item loop
+    - name : Netflix maquette
+      image : images/portfolio/netflix.png
+      image_webp : images/portfolio/netflix.png
+      categories : ["Maquettage"]
+      content : Maquette réalisée en version black et white.(mot de passe netflix)
+      link : "https://temotb.axshare.com/prototype/login/temotb#id=peyrp9&p=page_1"
+      
+    # portfolio item loop
+    - name : Veille technologique
+      image : images/portfolio/portfolio-8.jpg
+      image_webp : images/portfolio/portfolio-8.webp
+      categories : ["Veilles Technologique"]
+      content : veille technologique sur le sujet de prédilection intelligence artificielle
+      link : "https://github.com/kmag-cell"
+      
+    # portfolio item loop
+    - name : Mémoire Master
+      image : images/portfolio/memoire.png
+      image_webp : images/portfolio/memoire.png
+      categories : ["Recherches"]
+      content : Ce projet a été realisé pour la soutenance du mémoire de Master portant sur l’impact de l’activité agricole sur les ressources en eaux supperficielles
+      link : "https://drive.google.com/file/d/1txA0mO61EVZB7g_Gw5aRiXwUf3rlgWpz/view"

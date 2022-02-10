@@ -1,0 +1,64 @@
+##################################### pricing ##############################
+pricing:
+  enable : true
+  title : Mes Certifications
+  pricing_table :
+    # pricing table loop
+    - name :
+      price : Toutes mes Certifications
+    #   unit : Azure Fondamentals
+    #   # services:
+    #   #   - 1GB Disk Space
+    #   #   - 10 Email Account
+    #   #   - Script Installer
+    #   #   - 1 GB Storage
+    #   #   - 10 GB Bandwidth
+    #   #   - 24/7 Tech Support
+      button:
+        label : "Voir"
+        link : "https://www.linkedin.com/in/mallah-annick-ghislaine-kadiane-880448131/details/certifications/"
+      
+    # pricing table loop
+    - name : 
+      price : Linkedin
+      unit : Power Bi L'analyse de données
+      # services:
+      #   - 1GB Disk Space
+      #   - 10 Email Account
+      #   - Script Installer
+      #   - 1 GB Storage
+      #   - 10 GB Bandwidth
+      #   - 24/7 Tech Support
+      button:
+        label : "Voir"
+        link : "https://www.linkedin.com/learning/certificates/55ebb83adaf4e3837dfc42703e83eb6d82252321ff500f6b8e4a85d97a7568c1?trk=share_certificate"
+        
+    # pricing table loop
+    - name : 
+      price : Linkedin
+      unit : Découvrir l'analyse de données
+      # services:
+      #   - 1GB Disk Space
+      #   - 10 Email Account
+      #   - Script Installer
+      #   - 1 GB Storage
+      #   - 10 GB Bandwidth
+      #   - 24/7 Tech Support
+      button:
+        label : "Voir"
+        link : "https://www.linkedin.com/learning/certificates/381e2fa8648b5778bcda2ba3b567d833969d552a7bddae00bb156ebe968f4785?trk=share_certificate"
+        
+    # pricing table loop
+    - name : 
+      price : Linkedin
+      unit : Les fondements de la programmation
+      # services:
+      #   - 1GB Disk Space
+      #   - 10 Email Account
+      #   - Script Installer
+      #   - 1 GB Storage
+      #   - 10 GB Bandwidth
+      #   - 24/7 Tech Support
+      button:
+        label : "Voir"
+        link : "https://www.linkedin.com/learning/certificates/849bdad9e0f8ce1eaf6894681cf576874d1e71a7892b6aadbf8ec1264b12ebb3?trk=share_certificate"

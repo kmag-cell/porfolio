@@ -1,0 +1,22 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Me Contacter
+  subtitle : Contact Details
+  content : ............................................................
+
+  # Contact details
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "Mallah Annick Ghislaine KADIANE, Abidjan, Aboisso, Cote d'Ivoire"
+
+
+  # Contact form
+  contact_form:
+    enable : true
+    form_action : "https://formspree.io/f/xrgjpwgk" #contact form works with https://formspree.io
+    name : "Votre Nom"
+    email : "Votre Email"
+    subject : "Objet"
+    message : "Message"
+    submit : "Soumettre"

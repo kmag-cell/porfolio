@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  title : "Applications et fonctionnalités intelligentes"
+  content : "Des applications intelligentes déployées avec plusieurs technologies de Machine Learning et de Deep Learning"
+  button:
+    enable : true
+    label : "Télécharger mon CV"
+    link : "https://drive.google.com/file/d/1f9UpprW_S96rQ7927vLGGeiCs9BEue1C/view?usp=sharing"
